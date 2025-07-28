@@ -89,5 +89,5 @@ METALAND는 애플 아케이드 게임인 WonderBox를 모바일에서 PC 버전
 
 ## 🔗 관련 링크
 
-- [Notion에서 둘러보기]((https://www.notion.so/heejeonglim/METALAND-74ba2463b7e541a5876d2919afa87beb?pvs=4)
+- [Notion에서 둘러보기](https://www.notion.so/heejeonglim/METALAND-240875def3b645399910c9c1c42273f8?source=copy_link)
 
